@@ -1,9 +1,5 @@
 import { Message } from "element-ui";
 const minxin = {
-    data() {
-        return {
-        }
-    },
     computed: {
         idDev() {
             return process.env.NODE_ENV === 'development'
