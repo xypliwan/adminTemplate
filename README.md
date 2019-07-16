@@ -18,3 +18,30 @@ vue cli3.0 + elementUI + vuex + axios + scss
 
 
 
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Run your intr
+```
+npm run intr
+```
+
+
+
